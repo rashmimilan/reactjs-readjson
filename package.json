@@ -1,0 +1,17 @@
+{
+  "name": "reactjs-readjson",
+  "version": "1.0.0",
+  "description": "React Js - Read from Json",
+  "main": "index.js",
+  "author": "Rashmi Milan",
+  "license": "Free",
+  "dependencies": {
+    "autocast": "0.0.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "http-errors": "~1.6.3",
+    "js2xmlparser": "4.0.0",
+    "serialport": "^7.1.5",
+    "socket.io": "^2.2.0"
+  }
+}
